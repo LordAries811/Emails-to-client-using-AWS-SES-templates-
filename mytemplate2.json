@@ -1,0 +1,12 @@
+{
+    "Template": {
+      "TemplateName": "MyTemplate2",
+      "SubjectPart": "Greetings, {{name}}!",
+      "HtmlPart": "<html>\r\n<head></head>\r\n<body>\r\n<h1>Payment Details</h1>\r\n<p>Payment Type: {{paymentType}}</p>\r\n<p>Payment Method: {{paymentMethod}}</p>\r\n<p>Amount: {{amount}}</p>\r\n</body>\r\n</html>"
+    }
+  }
+  
+  
+  
+  
+  

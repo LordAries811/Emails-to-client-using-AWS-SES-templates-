@@ -1,0 +1,13 @@
+{
+    "Source": "adityabikramhalder@gmail.com",
+    "Template": "MyTemplate2",
+    "Destination": {
+      "ToAddresses": [
+        "adityabikramhalder@gmail.com"
+      ]
+    },
+    "TemplateData": "{ \"name\":\"Aditya\",\"paymentType\": \"Credit Card\", \"paymentMethod\": \"Visa\", \"amount\": \"$100.00\" }"
+  }
+  
+  
+  
